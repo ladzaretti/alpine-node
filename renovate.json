@@ -1,1 +1,9 @@
-{}
+{
+  "packageRules": [
+    {
+      "matchManagers": ["dockerfile"],
+      "matchPackageNames": ["node"],
+      "versioning": "node"
+    }
+  ]
+}
