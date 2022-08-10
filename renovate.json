@@ -5,5 +5,6 @@
       "matchPackageNames": ["node"],
       "versioning": "node"
     }
-  ]
+  ],
+  "dryRun": "full"
 }
