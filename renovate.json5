@@ -1,8 +1,8 @@
 {
   "packageRules": [
     {
-      "matchUpdateTypes": ["patch"],
-      "groupName": "all patch dependencies"
+      "matchUpdateTypes": ["minor"],
+      "groupName": "all minor dependencies"
     }
   ]
   "dependencyDashboard": true
