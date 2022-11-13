@@ -1,6 +1,9 @@
 {
   "packageRules": [
     {
+      "matchPackagePatterns": [
+        "*"
+      ],
       "matchUpdateTypes": ["minor"],
       "groupName": "all minor dependencies"
     }
