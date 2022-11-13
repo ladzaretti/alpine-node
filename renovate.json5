@@ -1,10 +1,9 @@
 {
-  /*"packageRules": [
+  "packageRules": [
     {
-      "matchManagers": ["dockerfile"],
-      "matchPackageNames": ["node"],
-      "versioning": "node"
+      "matchUpdateTypes": ["patch"],
+      "groupName": "all patch dependencies"
     }
-  ]*/
+  ]
   "dependencyDashboard": true
 }
