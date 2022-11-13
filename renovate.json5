@@ -7,6 +7,6 @@
       "matchUpdateTypes": ["minor"],
       "groupName": "all minor dependencies"
     }
-  ]
+  ],
   "dependencyDashboard": true
 }
