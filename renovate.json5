@@ -1,4 +1,5 @@
 {
+  "baseBranches":["dev","main"],
   "packageRules": [
     {
       "matchPackagePatterns": [
