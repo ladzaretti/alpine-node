@@ -13,14 +13,14 @@
       ],
       "groupName": "all minor dependencies"
     },
-    {
+   /* {
       "matchDatasources": [
         "npm"
       ],
       "registryUrls": [
         "https://index.docker.io"
       ]
-    }
+    }*/
   ],
   "dependencyDashboard": true
 }
