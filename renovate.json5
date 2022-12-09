@@ -11,7 +11,7 @@
       "matchUpdateTypes": [
         "minor"
       ],
-    "disabled": true,
+  "enabled": false,
     },
    /* {
       "matchDatasources": [
