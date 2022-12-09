@@ -1,20 +1,26 @@
 {
-  "baseBranches":["dev","main"],
+  "baseBranches": [
+    "dev",
+    "main"
+  ],
   "packageRules": [
     {
       "matchPackagePatterns": [
         "*"
       ],
-      "matchUpdateTypes": ["minor"],
+      "matchUpdateTypes": [
+        "minor"
+      ],
       "groupName": "all minor dependencies"
-    }
+    },
     {
-    ,{
-      "matchDatasources": ["docker"],
-      "registryUrls": ["https://docker.mycompany.domain"]
+      "matchDatasources": [
+        "docker"
+      ],
+      "registryUrls": [
+        "https://docker.mycompany.domain"
+      ]
     }
-  ]
-}
   ],
   "dependencyDashboard": true
 }
