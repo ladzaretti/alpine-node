@@ -11,7 +11,7 @@
       "matchUpdateTypes": [
         "minor"
       ],
-      "groupName": "all minor dependencies"
+    "disabled": true,
     },
    /* {
       "matchDatasources": [
