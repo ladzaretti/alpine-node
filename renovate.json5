@@ -13,6 +13,10 @@
       ],
       "groupName": "all minor dependencies"
     },
+    {
+      matchConfidence: ["high", "very high"],
+      groupName: "high merge confidence"
+    },
    /* {
       "matchDatasources": [
         "npm"
