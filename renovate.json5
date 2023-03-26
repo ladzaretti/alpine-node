@@ -3,6 +3,7 @@
     "dev",
     "main"
   ],
+  "commitMessageSuffix": "from_repo_config",
   "packageRules": [
     {
       "matchPackagePatterns": [
