@@ -3,8 +3,8 @@
     "dev",
     "main"
   ],
-  "commitMessageSuffix": "from_repo_config",
-  "packageRules": [
+  "lockFileMaintenance": { "enabled": true },
+ /* "packageRules": [
     {
       "matchPackagePatterns": [
         "*"
@@ -14,7 +14,7 @@
       ],
       "groupName": "all minor dependencies"
     }
-   /* {
+   {
       "matchDatasources": [
         "npm"
       ],
