@@ -21,7 +21,7 @@
       "registryUrls": [
         "https://index.docker.io"
       ]
-    }*/
-  ],
+    }
+  ],*/
   "dependencyDashboard": true
 }
