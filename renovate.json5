@@ -1,8 +1,8 @@
 {
-  "baseBranches": [
+  /*"baseBranches": [
     "dev",
     "main"
-  ],
+  ],*/
   "lockFileMaintenance": { "enabled": true },
  /* "packageRules": [
     {
